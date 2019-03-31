@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 00000000000000000000000000000000
+  productGUID: 6bbf54548c0c3084ab1739cbae8465ba
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -810,7 +810,7 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   cloudProjectId: acef4217-d8fb-4f48-b4e5-0e799f7bbbd3
   framebufferDepthMemorylessMode: 0
-  projectName: 
+  projectName: AdventureTutorial (5)
   organizationId: joeads5623
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
